@@ -1,4 +1,6 @@
 # NoteApp
 Notes App using room database.
-![noteapp1](https://user-images.githubusercontent.com/42138580/117246833-ed82e400-ae5a-11eb-9949-520889f7aeb7.jpg)
-![noteapp2](https://user-images.githubusercontent.com/42138580/117246866-f96ea600-ae5a-11eb-9799-4422b585b778.jpg)
+
+
+![noteapp1](https://user-images.githubusercontent.com/42138580/117247721-6d5d7e00-ae5c-11eb-8e9e-71729ea65c39.jpg)
+![noteapp2](https://user-images.githubusercontent.com/42138580/117247850-a0a00d00-ae5c-11eb-96af-2dfb5bf20be4.jpg)
